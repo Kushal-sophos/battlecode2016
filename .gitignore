@@ -13,6 +13,40 @@ hs_err_pid*
 lib/
 bin/
 
+# future perfect code
+src/antiturtle23
+src/armageddon_26
+src/donothing
+src/dont_chase_scouts24
+src/explore
+src/felix15
+src/final_25
+src/final_base_25
+src/final_original_25
+src/final_turret_warning_25
+src/final_viper25
+src/first
+src/focused16
+src/guard
+src/more_soldier_into_turret16
+src/post_seeding_19
+src/postsprint_13
+src/priorities22
+src/radar8
+src/radar_archonS10
+src/radar_channel10
+src/radar_follow9
+src/radar_limitscouts10
+src/radar_pair10
+src/radar_pair_turretmemory10
+src/radar_srp9
+src/rebroadcast_archon_location22
+src/scout_viper14
+src/second
+src/seeding_18
+src/seeding_base18
+
+
 # unneeded eclipse info
 .metadata/
 
